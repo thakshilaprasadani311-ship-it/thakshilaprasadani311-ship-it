@@ -1,3 +1,34 @@
+# Hi, I'm K.M.T.P. Chandrapala 👋
+
+## Information Technology Undergraduate
+
+I'm an Information Technology undergraduate at the University of Ruhuna with an interest in Software Engineering and Web Development.
+
+### 💻 Technical Skills
+
+* C Programming
+* SQL
+* Database Fundamentals
+
+### 🚀 Projects
+
+* Password Hashing Login System
+
+### 🎓 Education
+
+**Bachelor's Degree in Information Technology**
+University of Ruhuna
+2025 – 2028
+
+### 🏆 Certification
+
+**MongoDB Basics for Students**
+MongoDB | September 2026
+
+### 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/thakshila-prasadani-b52499387/
+* GitHub: https://github.com/thakshilaprasadani311-ship-it
 ## Hi there 👋
 
 <!--
